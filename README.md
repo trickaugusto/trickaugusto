@@ -1,4 +1,4 @@
-### Olá mundo, eu sou trickaugusto! 👋 
+### Olá mundo, eu sou o Patrick! 👋 
 
 - 🔭 Atualmente trabalho com PHP!
 - 🌱 Estudando JavaScript, NodeJS, entre outros
