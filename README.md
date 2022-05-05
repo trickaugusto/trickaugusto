@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente trabalho com PHP!
 - 🌱 Estudando JavaScript, NodeJS, entre outros
-- 📫 Como chegar até mim: trickaugusto (Linkedin)
 
 <div align="center">
   <a href="https://github.com/trickaugusto">
