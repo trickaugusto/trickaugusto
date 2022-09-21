@@ -1,7 +1,7 @@
 ### Olá mundo, eu sou o Patrick! 👋 
 
-- 🔭 Atualmente trabalho com PHP!
-- 🌱 Estudando JavaScript, NodeJS, entre outros
+- 🔭 Atualmente trabalho com PHP/Laravel!
+- 🌱 Estudando JavaScript, NodeJS, ReactJS, entre outros
 
 <div align="center">
   <a href="https://github.com/trickaugusto">
