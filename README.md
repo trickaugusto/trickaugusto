@@ -1,7 +1,7 @@
 ### Olá mundo, eu sou o Patrick! 👋 
 
 - 🔭 Atualmente trabalho com PHP/Laravel!
-- 🌱 Estudando JavaScript, NodeJS, ReactJS, entre outros
+- 🌱 Estudando JavaScript, NodeJS, ReactJS, e evoluindo no TypeScript!
 
 ##
 
