@@ -1,7 +1,7 @@
-### Olá mundo, eu sou o Patrick! 👋 
+### Hello World, I'm Patrick! Welcome to my profile 👋 
 
-- 🔭 Atualmente trabalho com PHP/Laravel!
-- 🌱 Estudando JavaScript, NodeJS, ReactJS, e evoluindo no TypeScript!
+- 🔭 Currently i work with PHP/Laravel, NodeJS/Typescript!
+- 🌱 I'm studying VueJS, ReactJS
 
 ##
 
