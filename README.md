@@ -1,6 +1,6 @@
 ### Hello World, I'm Patrick! Welcome to my profile 👋 
 
-- 🔭 Currently i work with PHP/Laravel, NodeJS/Typescript!
+- 🔭 Currently i work with PHP/Yii, Angular!
 - 🌱 I'm studying VueJS, ReactJS
 
 ##
