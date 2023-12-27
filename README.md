@@ -1,6 +1,6 @@
 ### Hello World, I'm Patrick! Welcome to my profile 👋 
 
-- 🔭 Currently i work with PHP/Yii, Angular, Nest and Next!
+- 🔭 Currently I work with PHP/Yii, Angular, Nest and Next!
 
 ##
 
