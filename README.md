@@ -1,6 +1,7 @@
 ### Hello World, I'm Patrick! Welcome to my profile 👋 
 
-- 🔭 Currently I work with PHP/Yii, Angular, Nest and Next!
+- 🔭 Currently I work with Node, React and GraphQL!
+- 🌱 I'm exploring Go and Functional Programming (FP) as part of my learning journey. 
 
 ##
 
